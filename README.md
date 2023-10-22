@@ -4,7 +4,7 @@ Practical Assignments and Mini Project of Design and analysis of algorithm.
 
 ## [Assignment]()
 
-## Assignment 1 - [Fibonacci series]()
+## Assignment 1 - [Fibonacci series](https://github.com/Shammachale0102/DAA/blob/main/Assignments/Fibonacci%20number.cpp)
 ## Assignment 2 - [0-1 Knapsack]()
 ## Assignment 3 - [Fractional Knapsack]()
 ## Assignment 4 - [Job sequencing]()
