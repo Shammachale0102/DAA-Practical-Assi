@@ -1,4 +1,4 @@
-// Assignment 4 : Write a program to solve a 0-1 Knapsack problem using dynamic programming.
+// Assignment 1 : Write a program to solve a 0-1 Knapsack problem using dynamic programming.
 
 
 #include <bits/stdc++.h>
