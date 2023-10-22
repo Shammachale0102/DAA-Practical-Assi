@@ -13,4 +13,4 @@ Practical Assignments and Mini Project of Design and analysis of algorithm.
 
 ## [Mini Project]()
 ## [Matrix chain multiplication](https://github.com/Shammachale0102/DAA/blob/main/MiniProject/Matrix%20Multiplication.cpp)
-## [Merge sort]()
+## [Merge sort](https://github.com/Shammachale0102/DAA/blob/main/MiniProject/Merge%20sort.cpp)
