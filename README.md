@@ -4,7 +4,7 @@ Practical Assignments and Mini Project of Design and analysis of algorithm.
 
 ## [Assignment]()
 
-## Assignment 1 - [)
+## Assignment 1 - [https://github.com/Shammachale0102/DAA-Practical-Assi/blob/main/Ass1.java)
 ## Assignment 2 - [)
 ## Assignment 3 - [)
 ## Assignment 4 - [)
